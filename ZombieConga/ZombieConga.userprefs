@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GoHome\Assets\Scipts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GenerateObject.cs" Line="17" Column="1" />
+      <File FileName="..\GoHome\Assets\Scipts\Player.cs" Line="1" Column="1" />
+      <File FileName="..\GoHome\Assets\Scipts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="..\GoHome\Assets\Scipts\Destroy.cs" Line="1" Column="1" />
+      <File FileName="..\GoHome\Assets\Scipts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="..\GoHome\Assets\Scipts\Patrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GenerateCat.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\ZombieController.cs" Line="16" Column="17" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
