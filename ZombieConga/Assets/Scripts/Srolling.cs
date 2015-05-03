@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Collections;
 
+// Thi has second commit
 public class Srolling : MonoBehaviour {
 
 	public Vector2 speed = new Vector2 (10,10);
@@ -15,5 +16,6 @@ public class Srolling : MonoBehaviour {
 			0);
 		movement *= Time.deltaTime;
 		transform.Translate(movement);
+        
 	}
 }
